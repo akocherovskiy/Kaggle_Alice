@@ -1,4 +1,4 @@
-"Catch me if you can ('Alice') Kaggle" competition.
+"Catch me if you can ('Alice')" Kaggle competition.
 
 Implementation of the linear classification model, using a "Bag of words" approach.
  
