@@ -1,5 +1,5 @@
 "Catch me if you can ('Alice')" Kaggle competition.
 
-Perform of the linear classification model, using a "Bag of words" approach.
+Performing of the linear classification model, using a "Bag of words" approach.
 
-This notebook includes Time Series cross-validation method and comparison performance with popular models as Decision Tree and Random Forest.
+This notebook includes Time Series cross-validation method and comparison with popular models as Decision Tree and Random Forest.
